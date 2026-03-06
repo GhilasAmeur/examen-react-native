@@ -6,7 +6,7 @@ export const HeaderTitle = ({ text }) => {
 
 const styles = StyleSheet.create({
   headerTitle: {
-    color: 'purple',
+    color: 'gray',
     fontSize: 20,
     fontWeight: 'bold'
   }
