@@ -7,7 +7,7 @@ export const Error = ({ text }) => {
 const styles = StyleSheet.create({
   headerTitle: {
     color: "red",
-    fontSize: 17,
+    fontSize: 13,
     fontWeight: "condensed",
   },
 });
